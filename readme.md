@@ -6,3 +6,5 @@ story feature
 edit details
 share to story
 search accounts
+
+to start the app : type "npx nodemon"
